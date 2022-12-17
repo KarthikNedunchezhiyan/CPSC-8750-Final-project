@@ -1,0 +1,23 @@
+{
+  "75b221ac-0789-4c70-bc9d-13c13a367753": {
+    "settings": {
+      "algorithm": "0"
+    },
+    "nodes": {
+      "4505ddfb-dbb5-47f0-b1a0-88c1eef581ab": {
+        "cpu": {
+          "value": 0.5,
+          "items": {
+            "1485845c-417a-40ce-a81a-c05b7b84157d": 0.5
+          }
+        },
+        "memory": {
+          "value": 0.9,
+          "items": {
+            "1485845c-417a-40ce-a81a-c05b7b84157d": 0.1
+          }
+        }
+      }
+    }
+  }
+}
